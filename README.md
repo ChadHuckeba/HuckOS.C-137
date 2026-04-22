@@ -38,6 +38,16 @@ HuckOS.C-137 is an externalized cognitive architecture and logic persistence for
 
 ---
 
+### **Cognitive Baseline Protocols**
+* **Data Integrity:** Session execution requires a nominal operating state. Acute physiological or emotional variance invalidates data fidelity.
+* **Acquisition Window:** Morning/Executive phase. Target: Maximum logic precision and zero decision fatigue.
+* **Data Vectors:**
+    * **Procedural Heuristics:** Mapping decision-making frameworks and troubleshooting logic.
+    * **Declarative Manifests:** Cataloging technical facts and project specifications.
+* **System Logic:** Decouple immutable core protocols from iterative variables to stabilize agentic profiling for adaptive tutoring.
+
+---
+
 ### **Privacy & Security**
 * **Isolation:** Strict `.gitignore` implementation for all credentials and sensitive identifiers.
 * **Sanitization:** Public-facing nodes utilize generic placeholders (e.g., `[SERVICE_INSTANCE]`, `[CLIENT_ID]`, `[BIO_ENTITY]`).
