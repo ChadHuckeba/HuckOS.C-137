@@ -49,6 +49,15 @@ HuckOS.C-137 is an externalized cognitive architecture and logic persistence for
 
 ---
 
+### **Anti-Pattern Mitigation & Guardrails**
+* **Information Entropy:** Mandatory weekly pruning cycles to eliminate redundant nodes and metadata rot; prevents digital hoarding.
+* **Cognitive Encoding:** Prohibition of verbatim capture. All nodes must be synthesized into localized logic to mitigate the "Google Effect" and ensure hippocampal engagement.
+* **Structural Minimalism:** Prioritizing flat hierarchies and bi-directional linking over rigid folder structures to eliminate decision fatigue and maintenance overhead.
+* **Active Utility:** Knowledge nodes must be mapped to active projects or strategic objectives to prevent the "illusion of competence" and false productivity.
+* **Signal-to-Noise Optimization:** Periodic synthesis of raw telemetry into atomic kernel nodes to maintain high-fidelity retrieval and system-wide clarity.
+
+---
+
 ### **Privacy & Security**
 * **Isolation:** Strict `.gitignore` implementation for all credentials and sensitive identifiers.
 * **Sanitization:** Public-facing nodes utilize generic placeholders (e.g., `[SERVICE_INSTANCE]`, `[CLIENT_ID]`, `[BIO_ENTITY]`).
