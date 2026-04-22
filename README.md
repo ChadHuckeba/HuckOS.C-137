@@ -1,7 +1,6 @@
 ## Architectural Design Considerations
 
-HuckOS.C-137
-Externalized cognitive architecture and logic persistence for the C-137 prime instance.
+HuckOS.C-137 is an externalized cognitive architecture and logic persistence for the C-137 prime instance. (OpenBrain)
 
 ### **System Architecture**
 * **Data Persistence:** Local-first, plain-text Markdown (`.md`) nodes.
