@@ -1,4 +1,7 @@
-## Architectural Design Considerations: HuckOS.C-137
+## Architectural Design Considerations
+
+HuckOS.C-137
+Externalized cognitive architecture and logic persistence for the C-137 prime instance.
 
 ### **System Architecture**
 * **Data Persistence:** Local-first, plain-text Markdown (`.md`) nodes.
