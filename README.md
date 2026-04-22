@@ -29,7 +29,7 @@ HuckOS.C-137 is an externalized cognitive architecture and logic persistence for
 ### **Operational Protocols**
 * **Input Vectors:**
     * **Manual:** High-fidelity technical documentation and architectural manifests.
-    * **Conversational:** Voice-to-text (STT) streams into `/telemetry` nodes for iterative refinement.
+    * **Conversational:** Speech-To-Text (STT) streams into `/telemetry` nodes for iterative refinement.
     * **Automated:** System-generated logs and agentic probes.
 * **Mnemonic Logic:**
     * **Atomic Notes:** Single-topic nodes to minimize data redundancy.
